@@ -1,0 +1,137 @@
+
+.btn-primary{
+  background-color: #FF9900;
+  border: 0;
+  padding: 15px 40px 15px 40px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-primary:hover{
+  background-color: rgb(219, 133, 4);
+  border: 0;
+}
+
+.navbar .btn-primary{
+  background-color: #FF9900;
+  border: 0;
+  padding: 10px 40px 10px 40px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar .btn-primary:hover{
+  background-color: rgb(219, 133, 4);
+  border: 0;
+}
+
+.navbar .btn-secondary{
+  background: none;
+  border: 1px solid #FFFFFF;
+  padding: 10px 40px 10px 40px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #FF9900;
+}
+
+.navbar .btn-secondary:hover{
+  border: 1px solid #FF9900;
+}
+.herosection h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+.herosection p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.herosection img{
+  border-radius: 300px; 
+}
+.reasonsection{
+  background-color: #FF9900;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.reasonsection h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #035397;
+}
+.reasonsection h5{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+
+.testimonisection{
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.testimonisection h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #035397;
+}
+.testimonisection h5{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #FF9900;
+}
+.testimonisection img{
+  border-radius: 100px; 
+}
+
+.visimisisection{
+  background-color: #035397;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.visimisisection h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #FF9900;
+}
+.visimisisection h5{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+.contactsection{
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.contactsection h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #035397;
+}
+.contactsection .icon{
+  float: left;
+}
+.contactsection .text{
+  float: left;
+  margin-left: 10px;
+  color: #7C99AC;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+.contactsection .icon-sosmed{
+  float: left;
+  margin-left: 30px;
+}
+.footersection{
+  background-color: #FF9900;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+/*@media only screen and (max-width: 768px) {
+  .navbar .btn-primary, .btn-secondary{
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}*/
